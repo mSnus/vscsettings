@@ -1,0 +1,2 @@
+# vscsettings
+settings sync
